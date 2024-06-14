@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
 
-    `git clone https://github.com/volarisapp/volar.is.git`
+    `git clone https://github.com/volar-is/volar.is.git`
 
 2. **Navigate to the project directory:**
 
@@ -69,7 +69,7 @@ This will create an optimized build of the project in the `build` directory. You
 
 We welcome contributions! If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Please make sure to follow the project's coding standards and include appropriate tests.
 
-Like [Volaris](https://github.com/volarisapp/volaris), this site is still in development, major changes will occur.
+Like [Volaris](https://github.com/volar-is/volaris), this site is still in development, major changes will occur.
 
 **Note:** This repository uses conventional commits. Please follow the [conventional commits guidelines](https://www.conventionalcommits.org/en/v1.0.0/) for your commit messages.
 
