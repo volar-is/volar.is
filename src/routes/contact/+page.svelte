@@ -52,7 +52,7 @@
             <div class="button-description">Connect with our community and get instant support</div>
           </div>
         </a>
-        <a href="https://github.com/volarisapp/volar.is/issues" class="button-primary" transition:fade={{ duration: 250 }}>
+        <a href="https://github.com/volar-is/volar.is/issues" class="button-primary" transition:fade={{ duration: 250 }}>
           <img alt="GitHub Icon" class="button-icon">
           <div>
             <div>Create a GitHub Issue</div>
