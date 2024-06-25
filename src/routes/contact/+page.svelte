@@ -45,7 +45,7 @@
       </p>
       <!-- add fitting logos and discord link -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-        <a href="https://discord.com/invite/your-discord-server-link" class="button-primary" transition:fade={{ duration: 250 }}>
+        <a href="https://discord.com/invite/CHegxjdFCD" class="button-primary" transition:fade={{ duration: 250 }}>
           <img alt="Discord Icon" class="button-icon">
           <div>
             <div>Join our Discord</div>
