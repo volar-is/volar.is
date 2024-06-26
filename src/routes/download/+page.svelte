@@ -22,7 +22,10 @@
             <h2 class="text-2xl font-bold mb-4" transition:fade={{ duration: 250 }}>Desktop Version</h2>
             <p class="text-lg mb-4" transition:fade={{ duration: 250 }}>Secure your data on your desktop with our robust and efficient encryption tool.</p>
           </div>
-          <a href="/download/desktop" class="bg-pink-accent text-white font-bold py-2 px-4 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for Desktop</a>
+          <p class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-accent hover:text-gray-900 mr-4 cursor-not-allowed grayscale relative group">
+          <span class="group-hover:hidden">Download for Desktop</span>
+          <span class="hidden group-hover:inline">Coming Soon</span>
+          </p>
         </div>
         <div class="p-6 bg-gray-700 rounded-lg shadow-md flex flex-col justify-between">
           <div>
@@ -36,14 +39,20 @@
             <h2 class="text-2xl font-bold mb-4" transition:fade={{ duration: 250 }}>Mobile Version</h2>
             <p class="text-lg mb-4" transition:fade={{ duration: 250 }}>Encrypt your data on-the-go with our mobile application.</p>
           </div>
-          <a href="/download/mobile" class="bg-pink-accent text-white font-bold py-2 px-4 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for Mobile</a>
+          <p class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-accent hover:text-gray-900 mr-4 cursor-not-allowed grayscale relative group">
+          <span class="group-hover:hidden">Download for Mobile</span>
+          <span class="hidden group-hover:inline">Coming Soon</span>
+          </p>
         </div>
         <div class="p-6 bg-gray-700 rounded-lg shadow-md flex flex-col justify-between">
           <div>
             <h2 class="text-2xl font-bold mb-4" transition:fade={{ duration: 250 }}>Documentation</h2>
             <p class="text-lg mb-4" transition:fade={{ duration: 250 }}>Read our comprehensive documentation to get started with Volaris.</p>
           </div>
-          <a href="/docs" class="bg-pink-accent text-white font-bold py-2 px-4 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>View Documentation</a>
+          <p class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-accent hover:text-gray-900 mr-4 cursor-not-allowed grayscale relative group">
+          <span class="group-hover:hidden">View Documentation</span>
+          <span class="hidden group-hover:inline">Coming Soon</span>
+          </p>
         </div>
       </div>
       <div class="text-lg" transition:fade={{ duration: 250 }}>
