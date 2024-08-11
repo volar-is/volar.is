@@ -9,8 +9,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 </svelte:head>
 
-<div class="min-h-screen flex items-center justify-center bg-gray-900 text-white">
-  <div class="py-8 bg-gray-800 rounded-lg shadow-lg p-10 text-center hover:shadow-xl transition duration-300" transition:fade={{ duration: 250 }}>
+<div class="min-h-screen flex items-center justify-center bg-gray-900 text-white px-4">
+  <div class="bg-gray-800 rounded-lg shadow-lg p-6 sm:p-10 text-center hover:shadow-xl transition duration-300 max-w-3xl w-full">
     <h1 class="text-4xl font-bold mb-8" transition:fade={{ duration: 250 }}>Download Volaris for Desktop</h1>
     <div class="max-w-3xl mx-auto">
       <p class="text-lg mb-6" transition:fade={{ duration: 250 }}>
