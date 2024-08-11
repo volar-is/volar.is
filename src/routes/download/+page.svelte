@@ -50,10 +50,7 @@
             <h2 class="text-2xl font-bold mb-4" transition:fade={{ duration: 250 }}>Documentation</h2>
             <p class="text-lg mb-4" transition:fade={{ duration: 250 }}>Read our comprehensive documentation to get started with Volaris.</p>
           </div>
-          <p class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-accent hover:text-gray-900 mr-4 cursor-not-allowed grayscale relative group">
-          <span class="group-hover:hidden">View Documentation</span>
-          <span class="hidden group-hover:inline">Coming Soon</span>
-          </p>
+          <a href="https://docs.volaris.leohanney.com/" class="bg-pink-accent text-white font-bold py-2 px-4 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>View Documentation</a>
         </div>
       </div>
       <div class="text-lg" transition:fade={{ duration: 250 }}>
