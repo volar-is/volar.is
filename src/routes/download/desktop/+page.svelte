@@ -19,7 +19,7 @@
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
         <a href="/downloads/volaris-desktop-macarm.dmg" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for macOS Arm</a>
         <a href="/downloads/volaris-desktop-mac64.dmg" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for macOS Intel</a>
-        <a href="/downloads/volaris-desktop-linux.AppImage" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for Linux</a>
+        <a href="https://github.com/volar-is/volaris-gui/releases/download/app-v0.2.0/Volaris_0.2.0_amd64.AppImage" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for Linux</a>
         <a href="/download" class="text-pink-accent font-bold py-3 px-8 text-xl hover:underline transition duration-300">Back to Downloads</a>
       </div>
     </div>
