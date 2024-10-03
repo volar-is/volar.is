@@ -17,9 +17,9 @@
         Download the latest version of Volaris for your desktop. Ensure you choose the correct version for your operating system.
       </p>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
-        <a href="/downloads/volaris-desktop-windows.exe" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for Windows</a>
-        <a href="/downloads/volaris-desktop-mac.dmg" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for macOS</a>
-        <a href="/downloads/volaris-desktop-linux.tar.gz" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for Linux</a>
+        <a href="/downloads/volaris-desktop-macarm.dmg" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for macOS Arm</a>
+        <a href="/downloads/volaris-desktop-mac64.dmg" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for macOS Intel</a>
+        <a href="/downloads/volaris-desktop-linux.AppImage" class="bg-pink-accent text-white font-bold py-3 px-8 rounded-full transition duration-300 hover:bg-pink-500" transition:fade={{ duration: 250 }}>Download for Linux</a>
         <a href="/download" class="text-pink-accent font-bold py-3 px-8 text-xl hover:underline transition duration-300">Back to Downloads</a>
       </div>
     </div>
